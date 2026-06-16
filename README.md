@@ -65,4 +65,6 @@ Backend structuring
 API testing
 ## 👨‍💻 Author
 
-GitHub: s-raj02
+Sudhanshu Raj
+
+GitHub: https://github.com/s-raj02
